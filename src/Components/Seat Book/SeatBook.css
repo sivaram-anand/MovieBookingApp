@@ -1,0 +1,100 @@
+.Individial_Seats {
+	padding-left: 2.5vw;
+	width: 50px;
+	height: 50px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.numbers {
+	display: flex;
+	flex-direction: row;
+	margin-left: 35vw;
+}
+.numbers div {
+	padding-left: 2.5vw;
+	margin-top: 50px;
+}
+.seats {
+	padding-top: 30px;
+}
+.submit {
+	margin-top: 50px;
+}
+.mainscreen {
+	display: flex;
+	flex-direction: row;
+	height: 20vw;
+}
+.imagesection {
+	width: 50%;
+	height: 113vh;
+	background: rgb(2, 0, 36);
+	background: linear-gradient(
+		90deg,
+		rgba(2, 0, 36, 1) 0%,
+		rgba(0, 0, 0, 1) 47%,
+		rgba(172, 184, 186, 1) 92%
+	);
+}
+.theatre_screen {
+	height: 5vh;
+	width: 30vw;
+	margin-left: 35%;
+	border: 2px solid black;
+	background-color: rgb(105, 142, 205);
+}
+.theatre_screen_typography {
+	font-size: 1.5rem;
+}
+.movie-image {
+	padding-top: 50%;
+}
+.infosection {
+	width: 50%;
+	margin-top: 10vh;
+}
+.name {
+	font-size: 25px;
+	font-weight: 600;
+	padding: 20px;
+	margin-left: 90px;
+	text-align: center;
+}
+.Date {
+	margin-bottom: 40px;
+}
+.Slot {
+	margin-bottom: 20px;
+	margin-top: 60px;
+}
+.Genre {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Director {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Actors {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Synopsis {
+	font-size: 18px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Button {
+	margin-top: 60px;
+}

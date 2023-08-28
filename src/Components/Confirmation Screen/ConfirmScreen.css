@@ -1,0 +1,22 @@
+.Title {
+	font-size: 35px;
+	font-weight: 600;
+	padding-top: 60px;
+	text-align: center;
+}
+
+.sub {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 30px;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.final_image {
+	height: 100px;
+	width: 100px;
+}

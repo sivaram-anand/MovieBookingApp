@@ -1,0 +1,67 @@
+.mainscreen {
+	display: flex;
+	flex-direction: row;
+	position: absolute;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.imagesection {
+	width: 50%;
+	height: 100vh;
+	background: rgb(2, 0, 36);
+	background: linear-gradient(
+		90deg,
+		rgba(2, 0, 36, 1) 0%,
+		rgba(0, 0, 0, 1) 47%,
+		rgba(172, 184, 186, 1) 92%
+	);
+}
+.movie-image {
+	padding-top: 90%;
+	/* position: absolute; */
+}
+.infosection {
+	width: 50%;
+	margin-top: 10vh;
+}
+.name {
+	font-size: 20px;
+	font-weight: 600;
+	margin-right: 90px;
+}
+.Date {
+	margin-top: 10px;
+}
+.Slot {
+	margin-bottom: 10px;
+}
+.Genre {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Director {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Actors {
+	font-size: 22px;
+	font-weight: 400;
+	padding: 20px;
+}
+
+.Synopsis {
+	font-size: 18px;
+	font-weight: 400;
+	margin: 25px;
+}
+
+.Button {
+	margin-top: 20px;
+}

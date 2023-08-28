@@ -1,0 +1,18 @@
+.maincart {
+	margin: 40px;
+	background-color: blueviolet;
+}
+.name {
+	padding-top: 10px;
+}
+
+.nooftickets {
+	padding-bottom: 10px;
+	font-size: 23px;
+}
+.button {
+	margin-bottom: 10px;
+}
+.image {
+	padding-top: 10px;
+}
